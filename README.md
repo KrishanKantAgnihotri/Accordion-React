@@ -1,5 +1,5 @@
 ### About
-Basic Accordion Using React deployed at [Netlify](https://epic-curran-26fb74.netlify.app/)
+Basic Accordion Using React deployed at [Netlify](https://accordion-design-react-kk.netlify.app/)
 
 #### Idea
 
